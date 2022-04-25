@@ -1,0 +1,29 @@
+h1{
+    font-style: italic;
+    }
+
+    .idade{
+        color: black;
+    }
+
+    #nome{
+        color: green;
+    }
+
+    body{
+        background-color: aqua;
+        display: flex;
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    div{
+        background-color: brown;
+        display: flex;
+        flex-direction: column;
+        align-self: flex-start;
+    }
+
+  
